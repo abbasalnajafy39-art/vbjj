@@ -1,17 +1,2 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="Kids",Spacetoon Arabic
-#EXTVLCOPT:http-referrer=https://spacetoon.com
-https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
-
-#EXTINF:-1 group-title="News",Al Jazeera Arabic
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 group-title="News",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary",DW Arabic
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-
-#EXTINF:-1 group-title="General",MBC Iraq
-https://mbciraq-prod-dub-enc.edgenextcdn.net/out/v1/index.m3u8
+#EXTINF:-1, National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
